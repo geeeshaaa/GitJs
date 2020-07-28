@@ -16,3 +16,4 @@ const a = prompt('Один із останніх переглянутих філ
       personalMovieDB.movies[c] = d;
       
       console.log(personalMovieDB);
+      
