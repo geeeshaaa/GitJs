@@ -14,6 +14,13 @@ const personalDB = {
     genres: [],
     private:false
 };
+const perslDB = {
+    count:numberofFilms,
+    movies: {},
+    actors: {},
+    genres: [],
+    private:false
+};
 const a = prompt('Один із останніх переглянутих фільмів?', ''),
       b = prompt('Як ви його оціните?',''),
       c = prompt('Один із останніх переглянутих фільмів?', ''),
